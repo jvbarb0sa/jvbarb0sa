@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:030303,35:080808,70:111827,100:1F2937&text=FCS%20STUDIO&fontColor=FFFFFF&fontSize=58&fontAlignY=34&desc=Premium%20Digital%20Products%20%E2%80%A2%20Interface%20Engineering%20%E2%80%A2%20Operational%20Systems&descSize=17&descAlignY=56&animation=fadeIn" alt="FCS Studio Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:030303,35:0B0B0F,70:111827,100:1F2937&text=FCS%20STUDIO&fontColor=FFFFFF&fontSize=56&fontAlignY=34&desc=Premium%20Digital%20Products%20%E2%80%A2%20Sharp%20Interfaces%20%E2%80%A2%20Operational%20Systems&descSize=17&descAlignY=56&animation=fadeIn" alt="FCS Studio Banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/jvbarb0sa">
-    <img src="https://img.shields.io/badge/João%20Barbosa-Premium%20Builder-0B0B0F?style=for-the-badge&labelColor=000000" alt="Profile Badge" />
+    <img src="https://img.shields.io/badge/Profile-Premium%20Builder-0B0B0F?style=for-the-badge&labelColor=000000" alt="Profile Badge" />
   </a>
   <a href="https://www.instagram.com/fcs_studio">
     <img src="https://img.shields.io/badge/Instagram-FCS%20Studio-0B0B0F?style=for-the-badge&logo=instagram&labelColor=000000" alt="Instagram Badge" />
@@ -26,20 +26,20 @@
 </h3>
 
 <p align="center">
-  We design and build premium digital products, sharp interfaces and operational systems<br/>
-  for brands and businesses that need clarity, performance and high-end execution.
+  Premium digital products, sharp interfaces and operational systems<br/>
+  for brands and businesses that care about design, clarity and performance.
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=21&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=980&lines=Premium+Websites+Built+to+Position+Brands;Interface+Engineering+with+Product-Level+Precision;Motion%2C+Microinteractions+and+High-End+Frontend;Dashboards%2C+Portals+and+Operational+Systems;Digital+Experiences+with+Design%2C+Logic+and+Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=950&lines=Premium+Websites+%26+Landing+Pages;High-End+Frontend+%26+Interface+Engineering;Motion%2C+Microinteractions+%26+Visual+Experience;Dashboards%2C+Portals+%26+Operational+Systems;Digital+Products+Built+With+Design+Precision" alt="Typing SVG" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://placehold.co/1500x460/050505/FFFFFF?font=montserrat&text=DESIGN%20%2B%20ENGINEERING%20%2B%20BUSINESS%20LOGIC" alt="FCS Studio Hero Visual" />
+  <img src="https://placehold.co/1400x420/050505/FFFFFF?text=DESIGN+%2B+ENGINEERING+%2B+BUSINESS+LOGIC" alt="FCS Studio Hero Visual" />
 </p>
 
 <br/>
@@ -53,19 +53,19 @@
 <table>
   <tr>
     <td width="58%" valign="top">
-      <h2>Premium digital execution for serious brands.</h2>
+      <h2>Digital execution with premium intent.</h2>
       <p>
-        <strong>FCS Studio</strong> builds websites, digital products, interfaces and business systems with visual precision, strong structure and operational thinking.
+        <strong>FCS Studio</strong> builds digital products, websites, interfaces and operational systems with high visual standard, clean structure and business-driven logic.
       </p>
       <p>
-        We do not build generic pages. We create digital experiences that position brands, simplify decisions and make products feel premium from the first interaction.
+        We do not create generic pages. We create digital experiences designed to communicate clearly, perform smoothly and position brands with authority.
       </p>
       <p>
-        Every project is treated as a product: strategy, interface, motion, performance and business logic working as one system.
+        Every project is treated like a product: strategy, interface, experience, performance and execution working together.
       </p>
     </td>
     <td width="42%" valign="top">
-      <img src="https://placehold.co/900x720/080808/FFFFFF?font=montserrat&text=PREMIUM%0AEXECUTION" alt="Premium Execution" />
+      <img src="https://placehold.co/900x720/080808/FFFFFF?text=PREMIUM%0AEXECUTION" alt="Premium Execution" />
     </td>
   </tr>
 </table>
@@ -81,24 +81,24 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://placehold.co/900x560/050505/FFFFFF?font=montserrat&text=01%0AWEBSITES" alt="Premium Websites" />
+      <img src="https://placehold.co/900x560/050505/FFFFFF?text=01%0AWEBSITES" alt="Premium Websites" />
       <h3>Premium Websites</h3>
       <p>
-        High-end websites and landing pages built with sharp positioning, strong visual hierarchy, fast performance and conversion logic.
+        High-end websites and landing pages with strong positioning, visual hierarchy, performance and conversion logic.
       </p>
     </td>
     <td width="33%" valign="top">
-      <img src="https://placehold.co/900x560/0B0B0F/FFFFFF?font=montserrat&text=02%0APRODUCTS" alt="Digital Products" />
+      <img src="https://placehold.co/900x560/0B0B0F/FFFFFF?text=02%0APRODUCTS" alt="Digital Products" />
       <h3>Digital Products</h3>
       <p>
-        Web applications, dashboards and product interfaces designed around usability, clarity, responsiveness and scalable structure.
+        Web apps, dashboards and interfaces designed around clarity, usability, responsiveness and scalable structure.
       </p>
     </td>
     <td width="33%" valign="top">
-      <img src="https://placehold.co/900x560/111111/FFFFFF?font=montserrat&text=03%0ASYSTEMS" alt="Operational Systems" />
+      <img src="https://placehold.co/900x560/111111/FFFFFF?text=03%0ASYSTEMS" alt="Operational Systems" />
       <h3>Operational Systems</h3>
       <p>
-        Client portals, internal tools, workflows and business systems that help teams operate with control, visibility and speed.
+        Client portals, internal tools, workflows and business systems that help teams operate with more control.
       </p>
     </td>
   </tr>
@@ -115,7 +115,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/1200x720/030303/FFFFFF?font=montserrat&text=KLIA%20HUB" alt="KLIA HUB preview" />
+      <img src="https://placehold.co/1200x720/030303/FFFFFF?text=KLIA+HUB" alt="KLIA HUB preview" />
       <h3>KLIA HUB</h3>
       <p>
         Premium operational workspace for projects, communication, documents, decisions and workflow clarity.
@@ -125,7 +125,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/1200x720/080808/FFFFFF?font=montserrat&text=CLIENT%20PORTAL" alt="Client Portal preview" />
+      <img src="https://placehold.co/1200x720/080808/FFFFFF?text=CLIENT+PORTAL" alt="Client Portal preview" />
       <h3>Client Portal</h3>
       <p>
         External-facing portal with controlled visibility, clean UX and premium interface architecture.
@@ -137,7 +137,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/1200x720/0B0B0F/FFFFFF?font=montserrat&text=BUSINESS%20DASHBOARD" alt="Business Dashboard preview" />
+      <img src="https://placehold.co/1200x720/0B0B0F/FFFFFF?text=BUSINESS+DASHBOARD" alt="Business Dashboard preview" />
       <h3>Business Dashboard</h3>
       <p>
         Management interface for data visualization, process control and operational decision-making.
@@ -147,7 +147,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/1200x720/111111/FFFFFF?font=montserrat&text=WEB%20EXPERIENCE" alt="Web Experience preview" />
+      <img src="https://placehold.co/1200x720/111111/FFFFFF?text=WEB+EXPERIENCE" alt="Web Experience preview" />
       <h3>Web Experiences</h3>
       <p>
         Premium front-end execution for brands that want stronger presence, better interaction and sharper positioning.
@@ -171,19 +171,19 @@
   <tr>
     <td width="25%" align="center" valign="top">
       <h3>Product Design</h3>
-      <p>Interfaces with hierarchy, clarity, usability and premium visual direction.</p>
+      <p>Interfaces with visual hierarchy, usability and premium direction.</p>
     </td>
     <td width="25%" align="center" valign="top">
       <h3>Frontend Engineering</h3>
-      <p>Responsive, scalable and polished implementation for modern digital products.</p>
+      <p>Responsive, scalable and polished implementation for modern products.</p>
     </td>
     <td width="25%" align="center" valign="top">
       <h3>Motion Experience</h3>
-      <p>Animations, transitions and interactions that make interfaces feel alive and intentional.</p>
+      <p>Animations, transitions and interactions that make interfaces feel alive.</p>
     </td>
     <td width="25%" align="center" valign="top">
       <h3>Business Systems</h3>
-      <p>Dashboards, portals, automations and workflows with real operational logic.</p>
+      <p>Dashboards, portals, automations and workflows with operational logic.</p>
     </td>
   </tr>
 </table>
@@ -336,7 +336,7 @@
 
 <p align="center">
   <strong>FCS Studio</strong><br/>
-  Premium digital products, interface engineering and operational systems.
+  Premium digital products, sharp interfaces and operational systems.
 </p>
 
 <p align="center">
