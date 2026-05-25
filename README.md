@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/jvbarb0sa">
-    <img src="https://img.shields.io/badge/Profile-Premium%20Builder-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Profile-Premium%20Builder-111111?style=for-the-badge" alt="Profile Badge" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.instagram.com/fcs_studio">
+    <img src="https://img.shields.io/badge/Instagram-FCS%20Studio-111111?style=for-the-badge&logo=instagram" alt="Instagram Badge" />
   </a>
-  <a href="https://fcsstudio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FCS%20Studio-111111?style=for-the-badge" />
+  <a href="https://www.behance.net/fearcompany">
+    <img src="https://img.shields.io/badge/Behance-Portfolio-111111?style=for-the-badge&logo=behance" alt="Behance Badge" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 ---
 
-##  About FCS Studio
+## About FCS Studio
 
 FCS Studio creates digital experiences with premium execution.
 
@@ -33,7 +33,7 @@ We build products with structure, clarity and business logic — designed to loo
 
 ---
 
-##  What we build
+## What we build
 
 <table>
   <tr>
@@ -54,7 +54,7 @@ We build products with structure, clarity and business logic — designed to loo
 
 ---
 
-##  Selected Work
+## Selected Work
 
 <table>
   <tr>
@@ -71,7 +71,7 @@ We build products with structure, clarity and business logic — designed to loo
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://placehold.co/800x500/151515/FFFFFF?text=BUSINESS+DASHBOARD" alt="Dashboard preview" />
+      <img src="https://placehold.co/800x500/151515/FFFFFF?text=BUSINESS+DASHBOARD" alt="Business Dashboard preview" />
       <h3>Business Dashboard</h3>
       Data visualization and operational oversight with clean layout and strong visual hierarchy.
     </td>
@@ -85,35 +85,93 @@ We build products with structure, clarity and business logic — designed to loo
 
 ---
 
-##  Capabilities
+## Capabilities
 
-- Product Design
-- Front-end Engineering
-- Dashboard UI
-- Design Systems
-- Business Tools
-- Client Portals
-- Internal Systems
-- Automation Flows
+<table>
+  <tr>
+    <td width="25%">Product Design</td>
+    <td width="25%">Front-end Engineering</td>
+    <td width="25%">Dashboard UI</td>
+    <td width="25%">Design Systems</td>
+  </tr>
+  <tr>
+    <td width="25%">Business Tools</td>
+    <td width="25%">Client Portals</td>
+    <td width="25%">Internal Systems</td>
+    <td width="25%">Automation Flows</td>
+  </tr>
+</table>
 
 ---
 
-##  Stack
+## Stack
+
+### Core Front-end
 
 <p>
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite" alt="Vite" />
+</p>
+
+### UI, Motion & Experience
+
+<p>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-111111?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Radix%20UI-111111?style=for-the-badge&logo=radixui" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-111111?style=for-the-badge&logo=framer" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/GSAP-111111?style=for-the-badge&logo=greensock" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Lenis-111111?style=for-the-badge" alt="Lenis" />
+  <img src="https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Spline-111111?style=for-the-badge&logo=spline" alt="Spline" />
+</p>
+
+### JavaScript Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/jQuery-111111?style=for-the-badge&logo=jquery" alt="jQuery" />
+  <img src="https://img.shields.io/badge/jQuery%20UI-111111?style=for-the-badge&logo=jquery" alt="jQuery UI" />
+  <img src="https://img.shields.io/badge/jQuery%20Migrate-111111?style=for-the-badge&logo=jquery" alt="jQuery Migrate" />
+  <img src="https://img.shields.io/badge/core--js-111111?style=for-the-badge&logo=javascript" alt="core-js" />
+  <img src="https://img.shields.io/badge/JavaScript%20Libraries-111111?style=for-the-badge&logo=javascript" alt="JavaScript Libraries" />
+</p>
+
+### CMS, No-code & Visual Builders
+
+<p>
+  <img src="https://img.shields.io/badge/WordPress-111111?style=for-the-badge&logo=wordpress" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Elementor-111111?style=for-the-badge&logo=elementor" alt="Elementor" />
+  <img src="https://img.shields.io/badge/Webflow-111111?style=for-the-badge&logo=webflow" alt="Webflow" />
+  <img src="https://img.shields.io/badge/Framer-111111?style=for-the-badge&logo=framer" alt="Framer" />
+</p>
+
+### Back-end & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk" alt="Java" />
+  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql" alt="MySQL" />
+</p>
+
+### Design & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/Design%20Systems-111111?style=for-the-badge" alt="Design Systems" />
 </p>
 
 ---
 
-##  Philosophy
+## Philosophy
 
 Great products are built at the intersection of:
 
@@ -126,10 +184,10 @@ That’s the standard behind FCS Studio.
 
 ---
 
-##  Connect
+## Connect
 
 <p>
-  <a href="https://www.linkedin.com/">LinkedIn</a> ·
-  <a href="https://fcsstudio.com">Portfolio</a> ·
+  <a href="https://www.instagram.com/fcs_studio">Instagram</a> ·
+  <a href="https://www.behance.net/fearcompany">Behance</a> ·
   <a href="mailto:joao.fcsstudio@gmail.com">Email</a>
 </p>
