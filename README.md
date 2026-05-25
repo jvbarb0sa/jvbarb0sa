@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**jvbarb0sa/jvbarb0sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# João Barbosa
 
-Here are some ideas to get you started:
+**Founder of FCS Studio | building premium digital products, operational systems and high-performance web experiences.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and build digital products with a focus on clean interfaces, business logic, operational clarity and strong user experience.
+
+## What I build
+
+- Premium websites and landing pages
+- Web apps and dashboards
+- Client portals
+- Operational systems
+- Product interfaces
+- Business automation flows
+
+## FCS Studio
+
+FCS Studio is where I turn ideas, brands and business processes into digital products with real structure, visual quality and performance.
+
+The focus is simple: build products that look sharp, work fast and solve actual business problems.
+
+## Stack
+
+React · Next.js · TypeScript · Tailwind CSS · Supabase · PostgreSQL · Figma · GitHub
+
+## Current focus
+
+- Building operational workspaces
+- Designing premium product interfaces
+- Creating scalable front-end systems
+- Improving business workflows through software
+
+## Connect
+
+LinkedIn: coloque-seu-link-aqui  
+Portfolio: coloque-seu-link-aqui  
+Email: coloque-seu-email-aqui
