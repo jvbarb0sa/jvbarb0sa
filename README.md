@@ -1,23 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:030303,35:0B0B0F,70:111827,100:1F2937&text=FCS%20STUDIO&fontColor=FFFFFF&fontSize=56&fontAlignY=34&desc=Premium%20Digital%20Products%20%E2%80%A2%20Sharp%20Interfaces%20%E2%80%A2%20Operational%20Systems&descSize=17&descAlignY=56&animation=fadeIn" alt="FCS Studio Banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:030303,35:0B0B0F,70:111827,100:1F2937&text=FCS%20STUDIO&fontColor=FFFFFF&fontSize=54&fontAlignY=36&desc=Design-led%20digital%20products%20%E2%80%A2%20Frontend%20engineering%20%E2%80%A2%20Operational%20systems&descSize=16&descAlignY=58&animation=fadeIn"
+    alt="FCS Studio banner"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/jvbarb0sa">
-    <img src="https://img.shields.io/badge/Profile-Premium%20Builder-0B0B0F?style=for-the-badge&labelColor=000000" alt="Profile Badge" />
+    <img src="https://img.shields.io/badge/GitHub-jvbarb0sa-0B0B0F?style=for-the-badge&logo=github&labelColor=000000" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/fcs_studio">
-    <img src="https://img.shields.io/badge/Instagram-FCS%20Studio-0B0B0F?style=for-the-badge&logo=instagram&labelColor=000000" alt="Instagram Badge" />
+    <img src="https://img.shields.io/badge/Instagram-FCS%20Studio-0B0B0F?style=for-the-badge&logo=instagram&labelColor=000000" alt="Instagram" />
   </a>
   <a href="https://www.behance.net/fearcompany">
-    <img src="https://img.shields.io/badge/Behance-Portfolio-0B0B0F?style=for-the-badge&logo=behance&labelColor=000000" alt="Behance Badge" />
+    <img src="https://img.shields.io/badge/Behance-Portfolio-0B0B0F?style=for-the-badge&logo=behance&labelColor=000000" alt="Behance" />
   </a>
   <a href="mailto:joao.fcsstudio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0B0B0F?style=for-the-badge&logo=gmail&labelColor=000000" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-Contact-0B0B0F?style=for-the-badge&logo=gmail&labelColor=000000" alt="Email" />
   </a>
 </p>
 
-<br/>
+<br />
 
 <h1 align="center">João Barbosa</h1>
 
@@ -26,96 +29,93 @@
 </h3>
 
 <p align="center">
-  Premium digital products, sharp interfaces and operational systems<br/>
-  for brands and businesses that care about design, clarity and performance.
+  I design and build premium websites, interfaces, dashboards and operational systems for brands that care about clarity, performance and execution.
 </p>
-
-<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=950&lines=Premium+Websites+%26+Landing+Pages;High-End+Frontend+%26+Interface+Engineering;Motion%2C+Microinteractions+%26+Visual+Experience;Dashboards%2C+Portals+%26+Operational+Systems;Digital+Products+Built+With+Design+Precision" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=950&lines=Premium+Websites+%26+Landing+Pages;High-End+Frontend+Engineering;Dashboards%2C+Portals+%26+Operational+Systems;Design+Systems+%26+Interface+Architecture;Digital+Products+Built+With+Precision"
+    alt="Typing SVG"
+  />
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="https://placehold.co/1400x420/050505/FFFFFF?text=DESIGN+%2B+ENGINEERING+%2B+BUSINESS+LOGIC" alt="FCS Studio Hero Visual" />
-</p>
-
-<br/>
+<br />
 
 ---
 
-<br/>
+<br />
 
 ## FCS Studio
 
 <table>
   <tr>
     <td width="58%" valign="top">
-      <h2>Digital execution with premium intent.</h2>
+      <h3>Digital execution with product-level precision.</h3>
       <p>
-        <strong>FCS Studio</strong> builds digital products, websites, interfaces and operational systems with high visual standard, clean structure and business-driven logic.
+        <strong>FCS Studio</strong> builds premium digital products, websites, interfaces and operational systems with strong visual direction, clean architecture and business-driven logic.
       </p>
       <p>
-        We do not create generic pages. We create digital experiences designed to communicate clearly, perform smoothly and position brands with authority.
+        The work is not just about making screens look good. It is about creating digital experiences that communicate clearly, scale with intention and help businesses operate better.
       </p>
       <p>
-        Every project is treated like a product: strategy, interface, experience, performance and execution working together.
+        Every project is treated as a product: positioning, interface, usability, performance, motion and implementation working as one system.
       </p>
     </td>
     <td width="42%" valign="top">
-      <img src="https://placehold.co/900x720/080808/FFFFFF?text=PREMIUM%0AEXECUTION" alt="Premium Execution" />
+      <h3>Focus</h3>
+      <ul>
+        <li>Premium websites and landing pages</li>
+        <li>High-end frontend execution</li>
+        <li>Dashboards and internal tools</li>
+        <li>Client portals and operational systems</li>
+        <li>Design systems and interface architecture</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<br/>
+<br />
 
 ---
 
-<br/>
+<br />
 
-## What We Build
+## What I Build
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://placehold.co/900x560/050505/FFFFFF?text=01%0AWEBSITES" alt="Premium Websites" />
-      <h3>Premium Websites</h3>
+      <h3>Web Experiences</h3>
       <p>
-        High-end websites and landing pages with strong positioning, visual hierarchy, performance and conversion logic.
+        Premium websites and landing pages built with sharp positioning, visual hierarchy, performance and conversion logic.
       </p>
     </td>
     <td width="33%" valign="top">
-      <img src="https://placehold.co/900x560/0B0B0F/FFFFFF?text=02%0APRODUCTS" alt="Digital Products" />
       <h3>Digital Products</h3>
       <p>
-        Web apps, dashboards and interfaces designed around clarity, usability, responsiveness and scalable structure.
+        Web apps, dashboards and product interfaces designed around clarity, usability, responsiveness and scalable structure.
       </p>
     </td>
     <td width="33%" valign="top">
-      <img src="https://placehold.co/900x560/111111/FFFFFF?text=03%0ASYSTEMS" alt="Operational Systems" />
       <h3>Operational Systems</h3>
       <p>
-        Client portals, internal tools, workflows and business systems that help teams operate with more control.
+        Client portals, internal tools, workflows and business systems that help teams operate with more control and visibility.
       </p>
     </td>
   </tr>
 </table>
 
-<br/>
+<br />
 
 ---
 
-<br/>
+<br />
 
 ## Selected Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/1200x720/030303/FFFFFF?text=KLIA+HUB" alt="KLIA HUB preview" />
       <h3>KLIA HUB</h3>
       <p>
         Premium operational workspace for projects, communication, documents, decisions and workflow clarity.
@@ -125,7 +125,6 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/1200x720/080808/FFFFFF?text=CLIENT+PORTAL" alt="Client Portal preview" />
       <h3>Client Portal</h3>
       <p>
         External-facing portal with controlled visibility, clean UX and premium interface architecture.
@@ -137,7 +136,6 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/1200x720/0B0B0F/FFFFFF?text=BUSINESS+DASHBOARD" alt="Business Dashboard preview" />
       <h3>Business Dashboard</h3>
       <p>
         Management interface for data visualization, process control and operational decision-making.
@@ -147,10 +145,9 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://placehold.co/1200x720/111111/FFFFFF?text=WEB+EXPERIENCE" alt="Web Experience preview" />
-      <h3>Web Experiences</h3>
+      <h3>Web Experience</h3>
       <p>
-        Premium front-end execution for brands that want stronger presence, better interaction and sharper positioning.
+        Premium frontend execution for brands that need stronger presence, better interaction and sharper positioning.
       </p>
       <p>
         <strong>Focus:</strong> Landing Pages · Motion · Conversion · Brand Experience
@@ -159,11 +156,11 @@
   </tr>
 </table>
 
-<br/>
+<br />
 
 ---
 
-<br/>
+<br />
 
 ## Capabilities
 
@@ -171,7 +168,7 @@
   <tr>
     <td width="25%" align="center" valign="top">
       <h3>Product Design</h3>
-      <p>Interfaces with visual hierarchy, usability and premium direction.</p>
+      <p>Interfaces with hierarchy, usability and premium visual direction.</p>
     </td>
     <td width="25%" align="center" valign="top">
       <h3>Frontend Engineering</h3>
@@ -179,24 +176,24 @@
     </td>
     <td width="25%" align="center" valign="top">
       <h3>Motion Experience</h3>
-      <p>Animations, transitions and interactions that make interfaces feel alive.</p>
+      <p>Transitions and microinteractions that make interfaces feel refined.</p>
     </td>
     <td width="25%" align="center" valign="top">
       <h3>Business Systems</h3>
-      <p>Dashboards, portals, automations and workflows with operational logic.</p>
+      <p>Dashboards, portals and workflows with real operational logic.</p>
     </td>
   </tr>
 </table>
 
-<br/>
+<br />
 
 ---
 
-<br/>
+<br />
 
-## Technology Stack
+## Technology
 
-### Core Front-end
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-0B0B0F?style=for-the-badge&logo=html5&labelColor=000000" alt="HTML5" />
@@ -208,7 +205,7 @@
   <img src="https://img.shields.io/badge/Vite-0B0B0F?style=for-the-badge&logo=vite&labelColor=000000" alt="Vite" />
 </p>
 
-### UI, Motion & Experience
+### Interface, Motion & Experience
 
 <p>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-0B0B0F?style=for-the-badge&logo=tailwindcss&labelColor=000000" alt="Tailwind CSS" />
@@ -217,37 +214,17 @@
   <img src="https://img.shields.io/badge/Framer%20Motion-0B0B0F?style=for-the-badge&logo=framer&labelColor=000000" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/GSAP-0B0B0F?style=for-the-badge&logo=greensock&labelColor=000000" alt="GSAP" />
   <img src="https://img.shields.io/badge/Lenis-0B0B0F?style=for-the-badge&labelColor=000000" alt="Lenis" />
-  <img src="https://img.shields.io/badge/Three.js-0B0B0F?style=for-the-badge&logo=threedotjs&labelColor=000000" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Spline-0B0B0F?style=for-the-badge&logo=spline&labelColor=000000" alt="Spline" />
 </p>
 
-### JavaScript Libraries
+### Backend, Data & CMS
 
 <p>
-  <img src="https://img.shields.io/badge/jQuery-0B0B0F?style=for-the-badge&logo=jquery&labelColor=000000" alt="jQuery" />
-  <img src="https://img.shields.io/badge/jQuery%20UI-0B0B0F?style=for-the-badge&logo=jquery&labelColor=000000" alt="jQuery UI" />
-  <img src="https://img.shields.io/badge/jQuery%20Migrate-0B0B0F?style=for-the-badge&logo=jquery&labelColor=000000" alt="jQuery Migrate" />
-  <img src="https://img.shields.io/badge/core--js-0B0B0F?style=for-the-badge&logo=javascript&labelColor=000000" alt="core-js" />
-  <img src="https://img.shields.io/badge/JavaScript%20Libraries-0B0B0F?style=for-the-badge&logo=javascript&labelColor=000000" alt="JavaScript Libraries" />
-</p>
-
-### CMS, No-code & Visual Builders
-
-<p>
-  <img src="https://img.shields.io/badge/WordPress-0B0B0F?style=for-the-badge&logo=wordpress&labelColor=000000" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Elementor-0B0B0F?style=for-the-badge&logo=elementor&labelColor=000000" alt="Elementor" />
-  <img src="https://img.shields.io/badge/Webflow-0B0B0F?style=for-the-badge&logo=webflow&labelColor=000000" alt="Webflow" />
-  <img src="https://img.shields.io/badge/Framer-0B0B0F?style=for-the-badge&logo=framer&labelColor=000000" alt="Framer" />
-</p>
-
-### Back-end & Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-0B0B0F?style=for-the-badge&logo=php&labelColor=000000" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-0B0B0F?style=for-the-badge&logo=openjdk&labelColor=000000" alt="Java" />
   <img src="https://img.shields.io/badge/Supabase-0B0B0F?style=for-the-badge&logo=supabase&labelColor=000000" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-0B0B0F?style=for-the-badge&logo=postgresql&labelColor=000000" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-0B0B0F?style=for-the-badge&logo=mysql&labelColor=000000" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PHP-0B0B0F?style=for-the-badge&logo=php&labelColor=000000" alt="PHP" />
+  <img src="https://img.shields.io/badge/WordPress-0B0B0F?style=for-the-badge&logo=wordpress&labelColor=000000" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Elementor-0B0B0F?style=for-the-badge&logo=elementor&labelColor=000000" alt="Elementor" />
 </p>
 
 ### Design & Workflow
@@ -260,34 +237,43 @@
   <img src="https://img.shields.io/badge/Design%20Systems-0B0B0F?style=for-the-badge&labelColor=000000" alt="Design Systems" />
 </p>
 
-<br/>
+<br />
 
 ---
 
-<br/>
+<br />
 
 ## GitHub Signal
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=jvbarb0sa&show_icons=true&theme=github_dark&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF" alt="GitHub Stats" />
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=jvbarb0sa&show_icons=true&theme=github_dark&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF"
+        alt="GitHub stats"
+      />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvbarb0sa&layout=compact&theme=github_dark&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=A1A1AA" alt="Top Languages" />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvbarb0sa&layout=compact&theme=github_dark&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=A1A1AA"
+        alt="Top languages"
+      />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvbarb0sa&bg_color=050505&color=A1A1AA&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jvbarb0sa&bg_color=050505&color=A1A1AA&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"
+    alt="GitHub activity graph"
+  />
 </p>
 
-<br/>
+<br />
 
 ---
 
-<br/>
+<br />
 
 ## Operating Standard
 
@@ -312,11 +298,11 @@
   </tr>
 </table>
 
-<br/>
+<br />
 
 ---
 
-<br/>
+<br />
 
 ## Connect
 
@@ -332,13 +318,16 @@
   </a>
 </p>
 
-<br/>
+<br />
 
 <p align="center">
-  <strong>FCS Studio</strong><br/>
-  Premium digital products, sharp interfaces and operational systems.
+  <strong>FCS Studio</strong><br />
+  Design-led digital products, sharp interfaces and operational systems.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:1F2937,45:0B0B0F,100:030303&section=footer" alt="Footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:1F2937,45:0B0B0F,100:030303&section=footer"
+    alt="Footer"
+  />
 </p>
