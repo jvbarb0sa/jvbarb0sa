@@ -20,6 +20,29 @@
   </a>
 </p>
 
+---
+
+<div align="center">
+
+### `joaovictor@github ~ $ ./contributions.sh`
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+### `joaovictor@github ~ $ whoami`
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<br/>
+
 <br />
 
 <h1 align="center">João Barbosa</h1>
