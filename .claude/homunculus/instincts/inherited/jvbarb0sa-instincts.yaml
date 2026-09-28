@@ -1,0 +1,318 @@
+# Instincts generated from https://github.com/jvbarb0sa/jvbarb0sa
+# Generated: 2026-07-18T16:59:38.010Z
+# Version: 2.0
+# NOTE: This file supplements (does not replace) any existing curated instincts.
+# High-confidence manually curated instincts should be preserved alongside these.
+
+---
+id: jvbarb0sa-commit-conventional
+trigger: "when writing a commit message"
+confidence: 0.85
+domain: git
+source: repo-analysis
+source_repo: https://github.com/jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Commit Conventional
+
+## Action
+
+Use conventional commit format with prefixes: feat
+
+## Evidence
+
+- 1 commits analyzed
+- Detected conventional commit pattern
+- Examples: feat: add animated terminal profile and GitHub Actions
+
+---
+id: jvbarb0sa-commit-length
+trigger: "when writing a commit message"
+confidence: 0.6
+domain: git
+source: repo-analysis
+source_repo: https://github.com/jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Commit Length
+
+## Action
+
+Write moderate-length commit messages (~54 characters)
+
+## Evidence
+
+- Average commit message length: 54 chars
+- Based on 1 commits
+
+---
+id: jvbarb0sa-naming-files
+trigger: "when creating a new file"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Naming Files
+
+## Action
+
+Use snake_case naming convention
+
+## Evidence
+
+- Analyzed file naming patterns in repository
+- Dominant pattern: snake_case
+
+---
+id: jvbarb0sa-import-relative
+trigger: "when importing modules"
+confidence: 0.75
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Import Relative
+
+## Action
+
+Use relative imports for project files
+
+## Evidence
+
+- Import analysis shows relative import pattern
+- Example: import { x } from '../lib/x'
+
+---
+id: jvbarb0sa-export-style
+trigger: "when exporting from a module"
+confidence: 0.7
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Export Style
+
+## Action
+
+Prefer named exports
+
+## Evidence
+
+- Export pattern analysis
+- Dominant style: named
+
+---
+id: jvbarb0sa-test-separate
+trigger: "when writing tests"
+confidence: 0.8
+domain: testing
+source: repo-analysis
+source_repo: https://github.com/jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Test Separate
+
+## Action
+
+Place tests in the tests/ or __tests__/ directory, mirroring src structure
+
+## Evidence
+
+- Separate test directory pattern detected
+- Tests live in dedicated test folders
+
+---
+id: jvbarb0sa-instinct-file-naming
+trigger: "When creating a new Python file"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Instinct File Naming
+
+## Action
+
+Name the file using snake_case
+
+## Evidence
+
+- Pattern in namingConventions.files: snake_case
+
+---
+id: jvbarb0sa-instinct-function-naming
+trigger: "When defining a new function"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Instinct Function Naming
+
+## Action
+
+Use camelCase for the function name
+
+## Evidence
+
+- Pattern in namingConventions.functions: camelCase
+
+---
+id: jvbarb0sa-instinct-class-naming
+trigger: "When defining a new class"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Instinct Class Naming
+
+## Action
+
+Use PascalCase for the class name
+
+## Evidence
+
+- Pattern in namingConventions.classes: PascalCase
+
+---
+id: jvbarb0sa-instinct-constant-naming
+trigger: "When defining a constant"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Instinct Constant Naming
+
+## Action
+
+Use SCREAMING_SNAKE_CASE for the constant name
+
+## Evidence
+
+- Pattern in namingConventions.constants: SCREAMING_SNAKE_CASE
+
+---
+id: jvbarb0sa-instinct-import-style
+trigger: "When importing modules within the package"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Instinct Import Style
+
+## Action
+
+Use relative imports
+
+## Evidence
+
+- Pattern in importStyle: relative
+
+---
+id: jvbarb0sa-instinct-export-style
+trigger: "When exporting functions or classes"
+confidence: 0.7
+domain: code-style
+source: repo-analysis
+source_repo: jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Instinct Export Style
+
+## Action
+
+Use named exports
+
+## Evidence
+
+- Pattern in exportStyle: named
+
+---
+id: jvbarb0sa-instinct-test-location
+trigger: "When adding new tests"
+confidence: 0.8
+domain: testing
+source: repo-analysis
+source_repo: jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Instinct Test Location
+
+## Action
+
+Place test files in a separate folder from source files
+
+## Evidence
+
+- Pattern in architecture.folderStructure.testLocation: separate
+
+---
+id: jvbarb0sa-instinct-git-commit-format
+trigger: "When writing a commit message"
+confidence: 0.9
+domain: git
+source: repo-analysis
+source_repo: jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Instinct Git Commit Format
+
+## Action
+
+Use the conventional commit format with a prefix such as 'feat:'
+
+## Evidence
+
+- Pattern in commits.type: conventional
+- Example: 'feat: add animated terminal profile and GitHub Actions'
+
+---
+id: jvbarb0sa-instinct-git-commit-length
+trigger: "When writing a commit message"
+confidence: 0.7
+domain: git
+source: repo-analysis
+source_repo: jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Instinct Git Commit Length
+
+## Action
+
+Keep the commit message concise, around 54 characters on average
+
+## Evidence
+
+- Pattern in commits.averageLength: 54
+
+---
+id: jvbarb0sa-instinct-github-actions-workflow
+trigger: "When automating profile or repository updates"
+confidence: 0.8
+domain: workflow
+source: repo-analysis
+source_repo: jvbarb0sa/jvbarb0sa
+---
+
+# Jvbarb0sa Instinct Github Actions Workflow
+
+## Action
+
+Configure GitHub Actions workflows in '.github/workflows/' (e.g., 'update-profile-art.yml')
+
+## Evidence
+
+- Pattern in architecture.configFiles: .github/workflows/update-profile-art.yml
+

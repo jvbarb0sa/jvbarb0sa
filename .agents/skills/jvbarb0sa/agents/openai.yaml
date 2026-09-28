@@ -1,0 +1,6 @@
+interface:
+  display_name: "Jvbarb0sa"
+  short_description: "Repo-specific patterns and workflows for jvbarb0sa"
+  default_prompt: "Use the jvbarb0sa repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
