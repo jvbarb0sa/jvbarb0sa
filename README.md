@@ -1,25 +1,33 @@
 <div align="center">
-  <img src="./hero.svg" width="100%" alt="João Barbosa — FCS Studio" />
+  <br />
+  <sub><code>FCS STUDIO · PRODUCT LAB</code></sub>
+  <h1>João Barbosa</h1>
+  <p>
+    <strong>Senior UI/UX Designer · Frontend Builder · Founder of FCS Studio</strong>
+  </p>
+  <p>
+    Architecting product-grade SaaS interfaces, design systems, and operational software with precision.
+  </p>
+  <br />
+  <p>
+    <a href="https://www.behance.net/fearcompany">
+      <img src="https://img.shields.io/badge/Behance-Portfolio-09090B?style=flat-square&logo=behance&logoColor=FFFFFF&labelColor=18181B" alt="Behance" />
+    </a>
+    <a href="https://www.instagram.com/fcs_studio">
+      <img src="https://img.shields.io/badge/Instagram-FCS%20Studio-09090B?style=flat-square&logo=instagram&logoColor=FFFFFF&labelColor=18181B" alt="Instagram" />
+    </a>
+    <a href="mailto:joao.fcsstudio@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Direct%20Contact-09090B?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=18181B" alt="Email" />
+    </a>
+    <a href="https://github.com/jvbarb0sa">
+      <img src="https://img.shields.io/badge/GitHub-@jvbarb0sa-09090B?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=18181B" alt="GitHub" />
+    </a>
+  </p>
 </div>
-
-<p align="center">
-  <a href="https://www.behance.net/fearcompany">
-    <img src="https://img.shields.io/badge/Behance-Portfolio-09090B?style=flat-square&logo=behance&logoColor=FFFFFF&labelColor=18181B" alt="Behance" />
-  </a>
-  <a href="https://www.instagram.com/fcs_studio">
-    <img src="https://img.shields.io/badge/Instagram-FCS%20Studio-09090B?style=flat-square&logo=instagram&logoColor=FFFFFF&labelColor=18181B" alt="Instagram" />
-  </a>
-  <a href="mailto:joao.fcsstudio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct%20Contact-09090B?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=18181B" alt="Email" />
-  </a>
-  <a href="https://github.com/jvbarb0sa">
-    <img src="https://img.shields.io/badge/GitHub-@jvbarb0sa-09090B?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=18181B" alt="GitHub" />
-  </a>
-</p>
 
 <br />
 
-> **Interfaces shouldn't be decorated — they should be engineered.**
+> **Interfaces shouldn't be decorated. They should be engineered.**
 > At **FCS Studio**, every product is built as a cohesive system: sharp visual hierarchy, dense operational workflows, tokenized design logic, and production-grade frontend execution.
 
 ---
@@ -93,12 +101,12 @@
 </table>
 
 <details>
-<summary><strong>Design Principles &amp; Operating Standard</strong> — <em>click to expand</em></summary>
+<summary><strong>Design Principles &amp; Operating Standard</strong> <sub>(click to expand)</sub></summary>
 <br />
 
 | Principle | Execution Standard |
 | :--- | :--- |
-| **Hierarchy First** | Users must immediately see what matters, what changed, and what to do next — zero decoding required. |
+| **Hierarchy First** | Users must immediately see what matters, what changed, and what to do next, with zero decoding required. |
 | **Systems Over Screens** | Every token, component, and state decision is designed to scale across the entire product, never for one isolated page. |
 | **Useful Density** | High-craft software is not empty. It is structured, scannable, and dense exactly where operational workflows demand it. |
 | **Production Polish** | Design only becomes real in the browser: micro-interactions, responsive edge cases, accessibility, and speed are non-negotiable. |
@@ -133,7 +141,7 @@
 <br />
 
 <details>
-<summary><strong>GitHub Signal &amp; Language Breakdown</strong> — <em>click to expand</em></summary>
+<summary><strong>GitHub Signal &amp; Language Breakdown</strong> <sub>(click to expand)</sub></summary>
 <br />
 
 <table align="center">
@@ -165,7 +173,8 @@
 ---
 
 <p align="center">
-  <strong>FCS Studio</strong> — Product-grade interfaces, sharp UX systems &amp; operational software.<br />
+  <strong>FCS Studio</strong><br />
+  Product-grade interfaces, sharp UX systems &amp; operational software.<br /><br />
   <a href="mailto:joao.fcsstudio@gmail.com">joao.fcsstudio@gmail.com</a> ·
   <a href="https://www.behance.net/fearcompany">Behance</a> ·
   <a href="https://www.instagram.com/fcs_studio">Instagram</a>
